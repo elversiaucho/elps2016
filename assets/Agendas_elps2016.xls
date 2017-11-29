@@ -1,0 +1,103 @@
+<table border="1">
+	<tr><th>HOGAR</th>
+		<th>USUARIO</th>
+		<th>FECHA</th>
+		<th>HORA</th>
+		<th>OBSERVACIONES</th>
+	</tr><tr><td>01725311100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-07</td>
+		            <td>10:00:15</td>
+		            <td>La señora esta de salida, pide contactarla en horas de la mañana</td></tr><tr><td>10514311100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>09:49:26</td>
+		            <td>Persona desayunando llamar en 30min</td></tr><tr><td>10517311100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-07</td>
+		            <td>09:00:19</td>
+		            <td></td></tr><tr><td>10378911100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>09:40:45</td>
+		            <td>llamar a las 9:40</td></tr><tr><td>10587411100</td>
+		            <td>gmorenor</td>
+		            <td>2016-06-08</td>
+		            <td>08:30:19</td>
+		            <td></td></tr><tr><td>10380511100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-09</td>
+		            <td>18:30:21</td>
+		            <td>Las personas del hogar laboran, llamar despues de 6p.m</td></tr><tr><td>10755311100</td>
+		            <td>lygelvesr</td>
+		            <td>2016-06-07</td>
+		            <td>13:00:54</td>
+		            <td>LILA PAOLA  SAN JUAN SOLICITA LA LLAMEN A  LA 1 PM</td></tr><tr><td>11120211100</td>
+		            <td>lygelvesr</td>
+		            <td>2016-06-08</td>
+		            <td>16:07:33</td>
+		            <td></td></tr><tr><td>10436611100</td>
+		            <td>lmtorresf</td>
+		            <td>2016-06-09</td>
+		            <td>09:00:17</td>
+		            <td></td></tr><tr><td>10482511100</td>
+		            <td>gmorenor</td>
+		            <td>2016-06-07</td>
+		            <td>14:30:43</td>
+		            <td></td></tr><tr><td>10377111100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>16:23:41</td>
+		            <td>Llamar al 5223173 o 2360650 en la tarde o noche</td></tr><tr><td>10516811100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-17</td>
+		            <td>16:38:46</td>
+		            <td>La vivienda fue de derribada, estan pendiente por ubicacion. Llamar dentro de una semana</td></tr><tr><td>10528811100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-07</td>
+		            <td>11:13:36</td>
+		            <td>Contactar a alguien mayor de edad</td></tr><tr><td>00090012203</td>
+		            <td>lmtorresf</td>
+		            <td>2016-06-07</td>
+		            <td>10:55:19</td>
+		            <td></td></tr><tr><td>01708111100</td>
+		            <td>hclopezp</td>
+		            <td>2016-06-07</td>
+		            <td>15:50:03</td>
+		            <td></td></tr><tr><td>11627414206</td>
+		            <td>1128282058</td>
+		            <td>2016-06-07</td>
+		            <td>16:30:42</td>
+		            <td>La persona de seguimiento regresa en la tarde</td></tr><tr><td>10378211100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>11:38:14</td>
+		            <td>Insistir al contacto</td></tr><tr><td>11122011100</td>
+		            <td>lygelvesr</td>
+		            <td>2016-06-07</td>
+		            <td>16:13:22</td>
+		            <td>LLAMAR DESPUES DE 5 DE LA TARDE</td></tr><tr><td>10379611100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>09:12:52</td>
+		            <td>Llamar en horas de la mañana</td></tr><tr><td>11121011100</td>
+		            <td>lygelvesr</td>
+		            <td>2016-06-07</td>
+		            <td>09:58:20</td>
+		            <td>LLAMAR ANTES DE 6 AM O DESPUES DE DE 6 PM</td></tr><tr><td>10378811100</td>
+		            <td>1128282058</td>
+		            <td>2016-06-08</td>
+		            <td>15:10:09</td>
+		            <td>llamar en horas de la tarde</td></tr><tr><td>00050911100</td>
+		            <td>gmorenor</td>
+		            <td>2016-06-08</td>
+		            <td>10:10:39</td>
+		            <td></td></tr><tr><td>00115811100</td>
+		            <td>lmtorresf</td>
+		            <td>2016-06-07</td>
+		            <td>09:33:34</td>
+		            <td></td></tr><tr><td>10588011100</td>
+		            <td>gmorenor</td>
+		            <td>2016-06-08</td>
+		            <td>00:14:39</td>
+		            <td></td></tr></table>

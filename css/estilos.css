@@ -1,0 +1,125 @@
+* {
+	margin:0px;
+	padding:0px;
+	}
+
+.t_error{
+		color: red;
+}
+
+
+#titulo2{
+	
+	
+}
+
+#titulo {
+	color: #800080;
+
+}
+#rta{
+	color: blue;
+
+}
+#contenido {
+
+
+}
+#encuesta {
+	
+}
+
+#hora{
+	
+	border:none;
+	text-align:center;
+	font-family:century;
+	font-size:32px;
+	color:#FFCC33;
+}
+#ms, note{
+	color: red;	
+}
+.col-sm-4{
+	background-color:lavender;
+}
+
+blockquote:hover{
+	background-color: #EFEFFB;
+}
+label {
+	/*display :block;
+	width: 50%;
+	text-align: right;*/
+	/*float: right;*/
+}
+/*Inicio estilos del menú*/
+header {
+	margin:auto;
+	align-items: center;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+
+img {
+	align-items: center;
+}
+
+nav {
+	margin: auto;
+	width:500px;
+	text-align: center;
+}
+ul#menu {
+    /*padding: 0;*/
+    display: none;
+}
+li.mcap{
+	display: none;
+}
+ul {
+	list-style: none;
+}
+ul#menu > li {
+	float: left;
+}
+
+ul#menu li a {
+    background-color: #20B2AA;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover  {
+    background-color: #9932CC;
+}
+ul#menu li ul {
+	display: none;
+	position:absolute;
+	min-width:140px;
+}
+ul#menu li:hover > ul,a{
+	display: block;
+
+}
+ul#menu li ul li {
+	position : relative; 
+}
+/*ul#menu li#lote a {
+	background-color: #800080;
+}*/
+/*ul#menu li.h {
+    display: inline;
+}*/
+
+ul#menu li.h a:focus {
+    background-color: #800080;
+}
+
+
+
+
+/*Fin estilos del menú*/

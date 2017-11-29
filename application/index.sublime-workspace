@@ -1,0 +1,1073 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"con",
+				"codicion"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"sl",
+				"slideUp"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"esta",
+				"ESTADO_ENCUESTA"
+			],
+			[
+				"col-",
+				"col-lg-12"
+			],
+			[
+				"te",
+				"tex_rol"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"si",
+				"sistema_r"
+			],
+			[
+				"u",
+				"usuario"
+			],
+			[
+				"o",
+				"off_line"
+			],
+			[
+				"col-l",
+				"col-lg-12"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"info",
+				"infolt"
+			],
+			[
+				"es",
+				"estudiantes"
+			],
+			[
+				"Err",
+				"ErrB15"
+			],
+			[
+				"Ver",
+				"VerificaB15t"
+			],
+			[
+				"sesion",
+				"session"
+			],
+			[
+				"Cod_col",
+				"Cod_col_op"
+			],
+			[
+				"Cod_colegio",
+				"cod_colegio_op"
+			],
+			[
+				"Cod_",
+				"cod_colegio_op"
+			],
+			[
+				"lote",
+				"LOTE_ENC"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"no",
+				"nombreArchivo"
+			],
+			[
+				"nu",
+				"numCols"
+			],
+			[
+				"a",
+				"archivo"
+			],
+			[
+				"cod",
+				"cod_colegio_op"
+			],
+			[
+				"ms",
+				"ms_lote"
+			],
+			[
+				"inf_co",
+				"inf_colegio"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"mp",
+				"mpio_user"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"PHPEx",
+				"PHPExcel_IOFactory"
+			],
+			[
+				"Se",
+				"Selecciona"
+			],
+			[
+				"lot",
+				"lote"
+			],
+			[
+				"ma",
+				"maximo_encuestas"
+			],
+			[
+				"inf",
+				"info_col"
+			],
+			[
+				"info_",
+				"info_lote"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"GRA",
+				"grado"
+			],
+			[
+				"cur",
+				"curso"
+			],
+			[
+				"from_",
+				"form_data"
+			],
+			[
+				"CUR",
+				"curso"
+			],
+			[
+				"DAT",
+				"data_encuesta"
+			],
+			[
+				"SE",
+				"SEDE_NOMBRE"
+			],
+			[
+				"LOTE",
+				"lote"
+			],
+			[
+				"NRO",
+				"nro_enc"
+			],
+			[
+				"S",
+				"SEDE_NOMBRE"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"er",
+				"errorThrown"
+			],
+			[
+				"se",
+				"serialize"
+			],
+			[
+				"cod_",
+				"cod_mpio"
+			],
+			[
+				"tei",
+				"tiempo"
+			],
+			[
+				"info_e",
+				"info_enc"
+			],
+			[
+				"nro",
+				"nro_enc"
+			],
+			[
+				"sesio",
+				"session_data"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"data_e",
+				"data_encuesta"
+			],
+			[
+				"me",
+				"mensa2"
+			],
+			[
+				"cont",
+				"cont_C25"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"op",
+				"opción"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ii",
+				"initial"
+			],
+			[
+				"sh",
+				"sheetData"
+			],
+			[
+				"dat",
+				"data_encuesta"
+			],
+			[
+				"POST",
+				"_POST"
+			],
+			[
+				"sede",
+				"sede_nombre"
+			],
+			[
+				"SEDE",
+				"SEDE_NOMBRE"
+			],
+			[
+				"tex",
+				"text_motivo"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"re",
+				"recibe"
+			],
+			[
+				"edad",
+				"edadR"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"val",
+				"valor"
+			],
+			[
+				"cole",
+				"colegio"
+			],
+			[
+				"ALE",
+				"alerta"
+			],
+			[
+				"O",
+				"Of_line"
+			],
+			[
+				"USUARIO",
+				"usuario"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"lo",
+				"lotes"
+			],
+			[
+				"gra",
+				"grado_asignado"
+			],
+			[
+				"is",
+				"is_ajax"
+			],
+			[
+				"asig",
+				"asig_monitor"
+			],
+			[
+				"ingr",
+				"ingresa"
+			],
+			[
+				"id",
+				"ids"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"nr",
+				"nroRel"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get_lo",
+				"get_lote"
+			],
+			[
+				"LOTE_E",
+				"lote_enc"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"cas",
+				"caso"
+			],
+			[
+				"P",
+				"parseInt"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"tol",
+				"total_e"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"encuesta",
+				"encuestados"
+			],
+			[
+				"err",
+				"err_matriculados"
+			],
+			[
+				"est",
+				"estado_e"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"total",
+				"total_e"
+			],
+			[
+				"Regu",
+				"regulares"
+			],
+			[
+				"h",
+				"hide"
+			],
+			[
+				"mo",
+				"monitor"
+			],
+			[
+				"sal",
+				"saltapr5"
+			],
+			[
+				"pagina",
+				"pagina_fin"
+			],
+			[
+				"AR",
+				"arrDatos"
+			],
+			[
+				"sip",
+				"sipr6"
+			],
+			[
+				"sipr",
+				"sipr3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/easiauchor/Documents/temporales/pagina_php.php",
+			"settings":
+			{
+				"buffer_size": 1472,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"dir",
+				"SFTP: Edit Server…"
+			],
+			[
+				"pakage control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/easiauchor/Documents/temporales/pagina_php.php",
+		"/C/Users/easiauchor/Documents/temporales/pagina_php",
+		"/C/Users/easiauchor/Documents/ECAS2018/Consultas/consolidado_vistas2.sql",
+		"/D/xampp/htdocs/ecasv3/application/views/view_lote.php",
+		"/D/xampp/htdocs/ecasv3/application/models/M_ecas.php",
+		"/D/xampp/htdocs/ecasv3/application/models/M_alertas.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_cheklg.php",
+		"/D/xampp/htdocs/ecasv3/assets/js/asignaciones/mis_funciones.js",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_asignaciones.php",
+		"/D/xampp/htdocs/ecasv3/application/models/M_seguimiento.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_estadoCurso.php",
+		"/D/xampp/htdocs/ecasv3/application/models/M_asignaciones.php",
+		"/D/xampp/htdocs/ecasv3/css/style.css",
+		"/D/xampp/htdocs/ecasv3/application/views/v_menult.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_reporte.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_reportes.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_seguimiento.php",
+		"/D/xampp/htdocs/ecasv3/application/views/v_novedad_ie.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_alertas.php",
+		"/D/xampp/htdocs/ecasv3/application/views/v_pie.html",
+		"/D/xampp/htdocs/ecasv3/application/views/view_asignaciones.php",
+		"/C/Users/easiauchor/Documents/ECAS2018/Consultas/vistas_consolidado.sql",
+		"/D/xampp/htdocs/ecasv3/BD/tablas_ECA2017Seg.sql",
+		"/D/xampp/htdocs/ecasv3/js/validar.js",
+		"/C/xampp/htdocs/ecasof2017/js/validar.js",
+		"/D/xampp/htdocs/ecasv3/application/views/v_encuesta_val.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/v_encuesta_of.php",
+		"/D/xampp/htdocs/ecasv3/js/main.js",
+		"/C/xampp/htdocs/ecasof2017/js/main.js",
+		"/D/xampp/htdocs/ecasv3/BD/user_2016.sql",
+		"/D/xampp/htdocs/ecasv3/BD/mtra_colegios.sql",
+		"/C/xampp/htdocs/ecasof2017/application/controllers/C_ecas.php",
+		"/C/xampp/htdocs/ecasof2017/application/models/M_ecas.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_ecas.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_estudiantes.php",
+		"/D/xampp/htdocs/ecasv3/application/views/v_reportes.php",
+		"/D/xampp/htdocs/ecasv3/application/views/v_novedad_lt.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_novIE.php",
+		"/D/xampp/htdocs/ecasv3/application/controllers/C_crearlt.php",
+		"/D/xampp/htdocs/ecasv3/application/views/viewVerifica_lote.php",
+		"/D/xampp/htdocs/ecasv3/assets/js/alertas/alertas.js",
+		"/D/xampp/htdocs/ecasv3/application/views/view_alertas.php",
+		"/D/xampp/htdocs/ecasv3/js/lote.js",
+		"/D/xampp/htdocs/ecasv3/application/views/view_cerrarlt.php",
+		"/C/xampp/htdocs/ecasof2017/assets/js/creaEnc.js",
+		"/C/xampp/htdocs/ecasof2017/application/views/view_creaEnc.php",
+		"/C/xampp/htdocs/ecasof2017/application/controllers/C_cheklg.php",
+		"/C/xampp/htdocs/pacman/index.htm",
+		"/C/xampp/htdocs/pacman/googlee6aee5a894225e60.html",
+		"/C/xampp/htdocs/ecasof2017/application/controllers/C_crearlt.php",
+		"/D/xampp/htdocs/ecasof2017/application/views/v_encuesta_of.php",
+		"/D/xampp/htdocs/ecasof2017/application/config/sitio.php",
+		"/D/xampp/htdocs/ecasof2017/application/controllers/C_cheklg.php",
+		"/C/Users/easiauchor/Documents/temporales/error.html",
+		"/D/xampp/htdocs/ecasof2017/application/controllers/C_crearlt.php",
+		"/D/xampp/htdocs/ecasof2017/application/controllers/C_ecas.php",
+		"/D/xampp/htdocs/ecasof2017/application/models/M_ecas.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/encabezado.php",
+		"/D/xampp/htdocs/ecasof2017/assets/js/creaEnc.js",
+		"/D/xampp/htdocs/ecasof2017/application/config/config.php",
+		"/C/xampp/htdocs/ecasof2017/application/helpers/mysql_to_excel_helper.php",
+		"/D/xampp/htdocs/ecasv3/application/views/encabezado.php",
+		"/D/xampp/htdocs/ecasv3/assets/js/asignaciones/jquery.easyui.min.js",
+		"/C/Users/easiauchor/Desktop/xampp Para ecas_offline/xampp/htdocs/ecasof2017/css/bootstrap.css",
+		"/C/Users/easiauchor/Desktop/xampp Para ecas_offline/xampp/htdocs/ecasof2017/css/style.css",
+		"/C/xampp/htdocs/ecasof2017/css/style.css",
+		"/C/xampp/htdocs/ecasof2017/application/views/view_elogin.php",
+		"/D/xampp/htdocs/ecasv3/application/views/view_elogin.php",
+		"/D/xampp/htdocs/ecasv3/application/views/view_creaEnc.php",
+		"/D/xampp/htdocs/ecasv3/assets/js/seguimiento/seguimiento.js",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_estadoIE.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_asignaciones.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/v_menult.php",
+		"/C/xampp/htdocs/ecasof2017/css/jquery-ui.css",
+		"/C/xampp/htdocs/ecasof2017/js/jquery-ui.js",
+		"/D/xampp/htdocs/ecasv3/application/helpers/mysql_to_excel_helper.php",
+		"/D/xampp/htdocs/ecasv3/application/views/seguimiento/v_cobertura_est.php",
+		"/C/Users/easiauchor/Desktop/xampp Para ecas_offline/xampp/htdocs/ecasof2017/application/config/config.php",
+		"/C/xampp/htdocs/ecasof2017/application/config/config.php",
+		"/D/ECAS/ecasof2017/application/controllers/C_ecas.php",
+		"/D/ECAS/ecasof2017/application/views/v_encuesta_of.php",
+		"/C/Users/easiauchor/Desktop/xampp Para ecas_offline/xampp/htdocs/ecasof2017/application/controllers/C_ecas.php",
+		"/C/Users/easiauchor/Desktop/xampp Para ecas_offline/xampp/htdocs/ecasof2017/application/helpers/mysql_to_excel_helper.php",
+		"/D/xampp/htdocs/ecasv3/js/menu.js",
+		"/D/xampp/htdocs/ecasv3/assets/css/seguimiento/seguimiento.css",
+		"/D/xampp/htdocs/ecasv3/application/controllers/Export.php",
+		"/D/xampp/htdocs/ecasv3/css/menu-seg.css",
+		"/D/xampp/htdocs/elps2016/application/views/elps_view.php",
+		"/D/xampp/htdocs/elps2016/application/views/encabezado.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/v_recomenda.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/view_retomar.php",
+		"/C/xampp/htdocs/ecasof2017v1/application/config/routes.php",
+		"/C/xampp/htdocs/ecasof2017v1/application/config/autoload.php",
+		"/C/xampp/htdocs/ecasof2017v1/application/config/config.php",
+		"/C/Users/easiauchor/Desktop/sobran de xampp/versiones_v_encuesta_val/v_encuesta_of.php",
+		"/C/xampp/htdocs/ecasof2017/application/views/v_encuesta_of2016.php",
+		"/D/xampp/htdocs/easyui-datagrid24-demo/datagrid24_demo.html",
+		"/D/xampp/htdocs/easyui-datagrid24-demo/datagrid24_getdata.php",
+		"/D/xampp/htdocs/jeasyui-datagrid-datagrid5/datagrid5_demo.html",
+		"/D/xampp/htdocs/ecas_asignaciones/index.html",
+		"/C/Users/easiauchor/AppData/Local/Temp/fz3temp-1/view_lote.php",
+		"/D/xampp/htdocs/ecasv3/application/config/database.php",
+		"/D/xampp/htdocs/ecasv3/application/models/copia_M_ecas.php",
+		"/C/Users/easiauchor/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/easiauchor/AppData/Local/Temp/fz3temp-1/autoload.php",
+		"/D/xampp/htdocs/ecasv3/js/bootstrap-dialog.js",
+		"/D/xampp/htdocs/easyui-datagrid3-demo/datagrid3_demo.html",
+		"/D/xampp/htdocs/ENLEC_web/application/core/MY_Model.php",
+		"/D/xampp/htdocs/ENLEC_web/application/modules/escritura/views/escritura.php",
+		"/D/xampp/htdocs/jeasyui-datagrid-datagrid3/datagrid3_demo.html",
+		"/D/xampp/htdocs/ENLEC_web/application/helpers/funciones_helper.php",
+		"/D/xampp/htdocs/ecasv3/system/libraries/phpGrid/conf.php",
+		"/D/xampp/htdocs/ecasv3/application/libraries/phpGrid/phpGrid.php",
+		"/D/xampp/htdocs/ecasv3/system/libraries/phpGrid/phpGrid.php",
+		"/D/xampp/htdocs/ecasv3/application/libraries/phpGrid_Lite/conf.php",
+		"/D/xampp/htdocs/ecasv3/application/libraries/phpGrid/edit.php",
+		"/D/xampp/htdocs/ecasv3/application/libraries/phpGrid/export.php",
+		"/D/xampp/htdocs/phpGrid_Lite/phpGrid.php",
+		"/D/xampp/htdocs/ecasv2df/application/views/v_menult.php",
+		"/D/xampp/htdocs/ecasv2df/application/views/view_lote.php",
+		"/D/xampp/htdocs/ecasv3/application/views/enc_asigna.php",
+		"/D/xampp/htdocs/ENLEC_web/application/modules/bibliotecas/controllers/Bibliotecas.php",
+		"/D/xampp/htdocs/ecasv3/application/helpers/funciones_helper.php",
+		"/D/xampp/htdocs/ENLEC_web/application/models/Modform.php",
+		"/D/xampp/htdocs/ecas_asignaciones/conn.php",
+		"/D/xampp/htdocs/ecas_asignaciones/get_users.php",
+		"/D/xampp/htdocs/ecasv3/assets/css/asignaciones",
+		"/D/xampp/htdocs/ecasv3/application/views/view_asignaciones_v1.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"v_detCurso",
+			"v_detcurso",
+			"V_coberturaEE",
+			"v_novIE",
+			"and gra",
+			"COUNT",
+			"v_auxcurso",
+			"identificar ",
+			"selecciona",
+			"set_select",
+			"grado",
+			"ie",
+			"novedad",
+			"v_alertalotes",
+			"info",
+			"asignarUsers",
+			"v_detCurso",
+			"nov_ie",
+			"v_asignaciones",
+			"reportar",
+			"reporte",
+			"v_cobertura_est",
+			"asignar_colX",
+			"id_asignacion",
+			"C_asignaciones",
+			"<th>",
+			"\">",
+			"</th>",
+			"reportar",
+			"192",
+			"get_alertas",
+			"input",
+			"$_POST",
+			"_POST",
+			"btnAsignar",
+			"DEFINER=`dimpe`@`%` ",
+			"Estructura",
+			"cursos6",
+			"`dane_ecas_v2`.`",
+			"v_estadocurso",
+			"v_detcurso",
+			"v_estudiantes",
+			"CREATE ALGORITHM=UNDEFINED DEFINER=`dimpe`@`%` SQL SECURITY DEFINER VIEW",
+			"v_loteconec",
+			"asig_monitor",
+			"D50_si",
+			"D51no",
+			"sisexo2",
+			"D50_no",
+			"\t  \t $(\"",
+			"motivo",
+			"form_cierre",
+			"www.",
+			"Si tú o alguien que conoces",
+			"141",
+			"No dependas de sustancias",
+			"No dependas  de sustancias",
+			"cerrar_lt",
+			"cursos10",
+			"curso10",
+			"16",
+			"pregunta",
+			"crea_",
+			"48.",
+			"slide",
+			"66",
+			"reportar",
+			"ver_re",
+			"reportar",
+			"off_line",
+			"cerrar",
+			"PRESENTES",
+			"get_lo",
+			"ver",
+			"rol",
+			"$caso",
+			"cerrar",
+			"viene",
+			"tot_encuestas",
+			"web_offline",
+			"faltaron",
+			"encuestados",
+			"matriculados",
+			"MATRICULADOS",
+			"matriculados",
+			"web_offline",
+			"encuestados",
+			"no_encuestados",
+			"sistema_r",
+			"remove",
+			"OFFLINE",
+			"rol",
+			"cerrar_lt",
+			"tot_e",
+			"off_line",
+			"total_e",
+			"tot_e",
+			"off_line",
+			"#total_e",
+			"ingrese",
+			"total_e",
+			"web_offline",
+			"web :",
+			"web +",
+			"$this->post",
+			"total_e",
+			"cerrar",
+			"estudiantes",
+			"encuestados",
+			"cerrar",
+			"off_line",
+			"web_offline",
+			"tot_web_offline",
+			"tot_encuestas",
+			"regulares",
+			"cerrar",
+			"$numRows",
+			"B15",
+			"prop(\"checked\")",
+			"B13",
+			"btnSl16",
+			"B15t",
+			"13.",
+			"15.",
+			"E55no",
+			"internet",
+			"fin_internet",
+			"ratio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"btn_D60",
+			"A8a",
+			"A8",
+			"A8_v2",
+			"$fila['A1']",
+			"D39",
+			"curso",
+			"D54g",
+			"D53si",
+			"D39g_cual",
+			" ",
+			"'1-Si','2' =>'2-No')",
+			"'D",
+			" ",
+			"'),",
+			" ",
+			"=>'2-No'",
+			"=>'1-Si'",
+			"'1' =>'1-Si'",
+			"'1' =>'Si', '2' =>'No'",
+			"",
+			"array(' ' => '?',  \n        '1'=> '1-Buena',\n        '2'=> '2-Regular',\n        '3'=> '3-Mala',\n        '9'=> '9-No aplica'\n);?>",
+			"echo strip_",
+			"</p><input id",
+			"<p class=\"t_error\"><?php strip",
+			"</p><?php $options",
+			"<p class=\"t_error\"><?php strip",
+			"  strip_tags(form_error(",
+			"  ",
+			" ",
+			"e>",
+			"'El ",
+			"'El",
+			"reg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/easiauchor/Documents/temporales/pagina_php.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "D:\\xampp\\htdocs\\ecasv3",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 221.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helper",
+				"application\\helpers\\funciones_helper.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

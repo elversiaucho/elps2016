@@ -1,0 +1,554 @@
+<table border="1">
+		<tr><th>LLAVE_TEM_H</th>
+		<th>PQ_NOACTUALIZA</th>
+		<th>OTRO_ACTUALIZA</th>
+		<th>GRADO_RECHAZO</th>
+		<th>COMENTARIOS</th>
+		<th>FECHA</th>
+		<th>USUARIO</th></tr><tr>
+				<th>10587411100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 12:59:08</th>
+				<th>gmorenor</th></tr><tr>
+				<th>00055512203</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>03-06-2016 15:05:05</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>00072811100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>03-06-2016 15:11:09</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10755311100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 10:49:09</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>01708011100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 09:39:50</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10436611100</th>
+				<th>6</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 15:21:02</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10321611100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 17:07:31</th>
+				<th>gmorenor</th></tr><tr>
+				<th>01709511100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 08:35:20</th>
+				<th>hclopezp</th></tr><tr>
+				<th>01709611100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 09:28:22</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10754611100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 09:39:25</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10375111100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 09:43:24</th>
+				<th>1128282058</th></tr><tr>
+				<th>11134611100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>el único numero que se registra para el hogar genera pitos al marcarlos. se seguirá insistiendo</th>
+				<th>09-06-2016 13:06:30</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>11129911100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>EL NUMERO DIRECIONA AL BUZON DE MENSAJES</th>
+				<th>09-06-2016 13:25:08</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10377411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Llamar al telefono 2599210 en la mañana y noche</th>
+				<th>09-06-2016 14:09:30</th>
+				<th>1128282058</th></tr><tr>
+				<th>10439811100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>VOLVER A LLAMAR</th>
+				<th>09-06-2016 14:45:50</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10433611100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:48:13</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10482511100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 12:31:12</th>
+				<th>gmorenor</th></tr><tr>
+				<th>10274212202</th>
+				<th>2</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 15:15:36</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10433711100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:51:13</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10433811100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:54:19</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>01709411100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 16:35:59</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10422411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 08:51:05</th>
+				<th>1128282058</th></tr><tr>
+				<th>10379411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 08:53:54</th>
+				<th>1128282058</th></tr><tr>
+				<th>00001911100</th>
+				<th>8</th>
+				<th>Comenta desde produccion </th>
+				<th></th>
+				<th>desde produccion..</th>
+				<th>09-06-2016 10:45:33</th>
+				<th>elver2</th></tr><tr>
+				<th>10438011100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 10:52:12</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10840811100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>SE PROGRAMAN LLAMADAS A LOS NUMEROS 3106426993 Y 3017401164 QUE NO RESPONDEN. LOS DEMAS NUMEROS SON INCORRECTOS</th>
+				<th>09-06-2016 11:20:44</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>01710211100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>SE LLAMA AL UNICO NUMERO QUE SE TIENE DE CONTACTO Y SE PREGUNTA POR TODOS LOS INTEGRANTES DEL HOGAR, LA PERSONA QUE CONTESTA DICE NO CONOCER A NINGUNA DE LAS PERSONAS QUE SE LE NOMBRÓ. NO QUISO DAR SU NOMBRE. TENER PRESENTE PARA VERIFICACION EDADES Y PARENTESCO.</th>
+				<th>09-06-2016 11:31:02</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10243315201</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th>La señora Elcy está en el banco no puede hablar</th>
+				<th>09-06-2016 14:30:54</th>
+				<th>gmorenor</th></tr><tr>
+				<th>01707811100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 14:36:37</th>
+				<th>hclopezp</th></tr><tr>
+				<th>01707911100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 14:52:30</th>
+				<th>hclopezp</th></tr><tr>
+				<th>00092211100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 11:26:25</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>01707511100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 11:22:07</th>
+				<th>hclopezp</th></tr><tr>
+				<th>11122011100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 16:13:38</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>01708211100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 16:16:01</th>
+				<th>hclopezp</th></tr><tr>
+				<th>01708411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:13:59</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10435311100</th>
+				<th>2</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:50:26</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10433111100</th>
+				<th>4</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:07:05</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>01708811100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:18:14</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10513311100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:27:29</th>
+				<th>1128282058</th></tr><tr>
+				<th>10433911100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:56:53</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>01709011100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 15:03:35</th>
+				<th>hclopezp</th></tr><tr>
+				<th>01709211100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 15:48:54</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10436911100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 15:51:16</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>11119811100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>se llamó por segunda vez en horarios diferentes a los dos numeros y los dos redireccionan al buzon de mensajes</th>
+				<th>09-06-2016 14:45:28</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>11636711100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 09:13:01</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10754614202</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 10:22:25</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10514111100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Llamar a los celulares en horas de la tarde y noche</th>
+				<th>09-06-2016 11:02:00</th>
+				<th>1128282058</th></tr><tr>
+				<th>10587211100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th>No se puede contactar ninguno de los telefonos registrados</th>
+				<th>09-06-2016 11:02:00</th>
+				<th>gmorenor</th></tr><tr>
+				<th>10528814205</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Llamar al fijo en horas de la tarde y noche</th>
+				<th>09-06-2016 11:05:29</th>
+				<th>1128282058</th></tr><tr>
+				<th>10591211100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Llamar en horas de la tarde o noche</th>
+				<th>09-06-2016 12:12:27</th>
+				<th>1128282058</th></tr><tr>
+				<th>11121411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>LOS DOS NUMEROS REDIRIGEN AL BUZON DE VOZ</th>
+				<th>09-06-2016 13:38:56</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10271815204</th>
+				<th>5</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 14:53:24</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10279812201</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 15:22:20</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10381011100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:16:41</th>
+				<th>1128282058</th></tr><tr>
+				<th>00050911100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:26:18</th>
+				<th>gmorenor</th></tr><tr>
+				<th>01708511100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:29:42</th>
+				<th>hclopezp</th></tr><tr>
+				<th>01708611100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:57:51</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10433311100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 14:34:18</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10434011100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 15:12:35</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>11739411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 16:10:52</th>
+				<th>1128282058</th></tr><tr>
+				<th>11182015204</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 10:11:50</th>
+				<th>gmorenor</th></tr><tr>
+				<th>00076211100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 10:39:17</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10514511100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 11:47:56</th>
+				<th>1128282058</th></tr><tr>
+				<th>10657914203</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>SE REALIZARAN MAS LLAMADAS. NO RESPONDEN EL TELFONO</th>
+				<th>09-06-2016 13:11:05</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>00054812201</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>03-06-2016 14:04:46</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10754014206</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:50:25</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>00115811100</th>
+				<th>7</th>
+				<th></th>
+				<th>2</th>
+				<th></th>
+				<th>07-06-2016 09:40:41</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10271815201</th>
+				<th>5</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 14:51:32</th>
+				<th>lmtorresf</th></tr><tr>
+				<th>10420311100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 15:46:22</th>
+				<th>1128282058</th></tr><tr>
+				<th>01708111100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>07-06-2016 15:50:11</th>
+				<th>hclopezp</th></tr><tr>
+				<th>10588011100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>08-06-2016 09:13:32</th>
+				<th>gmorenor</th></tr><tr>
+				<th>10296411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 08:47:35</th>
+				<th>1128282058</th></tr><tr>
+				<th>10245611100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 10:42:25</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10379414206</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>EL TELEFONO FIJO ESTA ERRADO (COLOMBIA TELECOMUNICACIONES).  eL TELEFONO CELULAR REDIRIGE INMEDIATAMENTE A BUZON DE VOZ</th>
+				<th>09-06-2016 10:57:52</th>
+				<th>lygelvesr</th></tr><tr>
+				<th>10736911100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Insistir al teléfono contacto suena pito pero podria estar descolgado, fijo 1 incorrecto y 2 invalido.</th>
+				<th>09-06-2016 11:11:47</th>
+				<th>1128282058</th></tr><tr>
+				<th>00050711100</th>
+				<th>8</th>
+				<th></th>
+				<th></th>
+				<th>La llamada no entra al cel. de la señora Gloria y el tel de contacto no está disponible en el momento. </th>
+				<th>09-06-2016 11:58:13</th>
+				<th>gmorenor</th></tr><tr>
+				<th>10378411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th>Llamar en horario mañana y noche</th>
+				<th>09-06-2016 14:34:00</th>
+				<th>1128282058</th></tr><tr>
+				<th>11334411100</th>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th>09-06-2016 14:49:35</th>
+				<th>lygelvesr</th></tr></table>

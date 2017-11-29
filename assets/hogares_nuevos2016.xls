@@ -1,0 +1,376 @@
+<table border="1">
+	<tr><th>LLAVE_NUEVO_H</th>
+	<th>LLAVE_ANTIGUO_H</th>
+	<th>FECHA</th>
+	<th>Cod. Municipio</th>
+	<th>DPTO</th>
+	<th>MPIO</th>
+	<th>CENTRO_P</th>
+	<th>BARRIO_VRDA</th>
+	<th>CLASE</th>
+	<th>CORRIGE_DIRECCION</th>
+	<th>ZONA_DIRECCION</th>
+	<th>DIRECCION</th>
+	<th>COMENTARIO_MONITOR</th>
+	<th>USUARIO</th>
+	<th>INFO_ADICIONAL</th>
+	<th>ESTADO_H</th>
+	<th>TIPO_DIR</th>
+	<th>LLAVE_INFORMANTE</th></tr><tr><th>00090015203</th>
+	<th>00090012203</th>
+	<th>07-06-2016 10:52:42</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SOCORRO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-50 A sur-7 95 molinos</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th>Ya no vive con los tios, vive con la Mama (Sonia) los celulares son de la Mama</th>
+	<th>1</th>
+	<th></th>
+	<th>000900111001103</th></tr><tr><th>10587415208</th>
+	<th>10587411100</th>
+	<th>08-06-2016 17:11:46</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DEL VIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 13N 53N 58</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>105874111001102</th></tr><tr><th>11182015204</th>
+	<th>11182011100</th>
+	<th>09-06-2016 10:06:26</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>BELLO HORIZONTE</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>CA BLANCA BLANCA LIBIA BOLAÑOS</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>111820111002103</th></tr><tr><th>10437915203</th>
+	<th>10437911100</th>
+	<th>09-06-2016 10:37:26</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>DIANA TURBAY LA SERRANIA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 49B 3A 21 ESTE</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>104379111001103</th></tr><tr><th>10260815201</th>
+	<th>10260811100</th>
+	<th>07-06-2016 14:14:12</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>COMPARTIR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CALLE 2SUR 22-49</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102608111001101</th></tr><tr><th>10271815204</th>
+	<th>10271811100</th>
+	<th>07-06-2016 14:35:09</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>KENNEDY</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CARRERA 79 C 36 A SUR 78 BLOQUE 4 INTERIOR 2 APT 105</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>102718111001102</th></tr><tr><th>10245015202</th>
+	<th>10245011100</th>
+	<th>08-06-2016 14:53:34</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS SAUCES</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-1 -20 53 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102450111001102</th></tr><tr><th>10242515205</th>
+	<th>10242511100</th>
+	<th>07-06-2016 14:16:28</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS SAUCES</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-3 -17 22 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102425111002102</th></tr><tr><th>10271815201</th>
+	<th>10271811100</th>
+	<th>07-06-2016 14:35:07</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>KENNEDY</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CARRERA 79 C 36 A SUR 78 BLOQUE 4 INTERIOR 2 APT 105</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>102718111001102</th></tr><tr><th>10528115206</th>
+	<th>10528111100</th>
+	<th>07-06-2016 17:16:52</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CALAZANS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 86 49 D 58</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>105281111001101</th></tr><tr><th>10435915201</th>
+	<th>10435911100</th>
+	<th>08-06-2016 09:56:20</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CHIRCAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 59 SUR 22G 61</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>104359111001102</th></tr><tr><th>10434615201</th>
+	<th>10434611100</th>
+	<th>08-06-2016 12:08:36</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>eduardo santos</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 19A 1G 44 PS 1</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>104346111002102</th></tr><tr><th>10436215201</th>
+	<th>10436211100</th>
+	<th>08-06-2016 10:48:36</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Diana Turbay sector lanceros</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 48X BIS 1 29 SUR PS 3</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>104362111001105</th></tr><tr><th>11123015207</th>
+	<th>11123011100</th>
+	<th>08-06-2016 11:02:37</th>
+	<th>44001</th>
+	<th>GUAJIRA</th>
+	<th>RIOHACHA</th>
+	<th></th>
+	<th>SAN MARTIN</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-25 -18 36 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111230111002106</th></tr><tr><th>11182015201</th>
+	<th>11182011100</th>
+	<th>09-06-2016 09:14:31</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>BELLO HORIZONTE</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>- -  </th>
+	<th>Llamar de nuevo para confirmar la dirección y teléfonos </th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>0</th>
+	<th></th>
+	<th>111820111002103</th></tr><tr><th>10768715205</th>
+	<th>10768714205</th>
+	<th>03-06-2016 15:52:33</th>
+	<th>08638</th>
+	<th>ATLANTICO</th>
+	<th>SABANALARGA</th>
+	<th></th>
+	<th>LA CONCEPCION</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-20 A -8 34 </th>
+	<th>Falta actualizar la dirección en el municipio de Sabanalarga, pues se genera un error en el departamento.</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107687111001105</th></tr><tr><th>01725315201</th>
+	<th>01725311100</th>
+	<th>07-06-2016 10:38:23</th>
+	<th>27099</th>
+	<th>CHOCO</th>
+	<th>BOJAYA</th>
+	<th>Bellavista</th>
+	<th>Bella luz</th>
+	<th>2</th>
+	<th>1</th>
+	<th>Rural</th>
+	<th>Sector dos de Mayo casa 60 Cerca al colegio municipal  </th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017253111001101</th></tr><tr><th>10755315203</th>
+	<th>10755311100</th>
+	<th>07-06-2016 12:59:09</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SAN ANDRES DELICIAS</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-68 I -43 C 40 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107553111001103</th></tr><tr><th>10515815205</th>
+	<th>10515811100</th>
+	<th>07-06-2016 14:37:38</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>FUENTE CLARA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 93 62 28</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>105158111001101</th></tr><tr><th>01709815203</th>
+	<th>01709811100</th>
+	<th>09-06-2016 10:15:33</th>
+	<th>76520</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>PASO DE COMERCIO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 1JN 77 10  PS 2</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>017098111001101</th></tr><tr><th>10563315204</th>
+	<th>10563311100</th>
+	<th>09-06-2016 11:21:48</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>VEREDA CALDAS POR LA VEREDA MINUTO DE DIOS</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>NO REGISTRA</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th>105633111001102</th></tr></table>

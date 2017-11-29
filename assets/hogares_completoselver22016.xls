@@ -1,0 +1,3130 @@
+<table border="1">
+	<tr><th>LLAVE_NUEVO_H</th>
+	<th>LLAVE_ANTIGUO_H</th>
+	<th>FECHA</th>
+	<th>Cod. Municipio</th>
+	<th>DPTO</th>
+	<th>MPIO</th>
+	<th>CENTRO_P</th>
+	<th>BARRIO_VRDA</th>
+	<th>CLASE</th>
+	<th>CORRIGE_DIRECCION</th>
+	<th>ZONA_DIRECCION</th>
+	<th>DIRECCION</th>
+	<th>COMENTARIO_MONITOR</th>
+	<th>USUARIO</th>
+	<th>INFO_ADICIONAL</th>
+	<th>ESTADO_H</th>
+	<th>TIPO_DIR</th>
+	<th>LLAVE_INFORMANTE</th></tr><tr><th>10514311100</th>
+	<th>10514311100</th>
+	<th>07-06-2016 09:18:46</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR 2</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Cr 46 107 B 18</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105143111001102</th></tr><tr><th>11121011100</th>
+	<th>11121011100</th>
+	<th>07-06-2016 09:35:52</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>REBOLO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 19 25 25</th>
+	<th>Se verificó la información de Verónica Vitola Fontalbo</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111210111001101</th></tr><tr><th>10591111100</th>
+	<th>10591111100</th>
+	<th>07-06-2016 09:37:36</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>ENCISO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 59B 24 20</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105911111001102</th></tr><tr><th>00090015203</th>
+	<th>00090012203</th>
+	<th>07-06-2016 10:52:42</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SOCORRO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-50 A sur-7 95 molinos</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th>Ya no vive con los tios, vive con la Mama (Sonia) los celulares son de la Mama</th>
+	<th>1</th>
+	<th></th>
+	<th>000900111001103</th></tr><tr><th>11121911100</th>
+	<th>11121911100</th>
+	<th>07-06-2016 15:42:27</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>REBOLO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 19 25 31</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111219111001105</th></tr><tr><th>10841211100</th>
+	<th>10841211100</th>
+	<th>08-06-2016 08:53:59</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CONIDEC</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 5 SUR 48 14</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>108412111002105</th></tr><tr><th>11739311100</th>
+	<th>11739311100</th>
+	<th>08-06-2016 10:24:48</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>SAN ANTONIO DE PRADO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-79 B Sur-46 63 Interior 1207</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>117393111001101</th></tr><tr><th>10436211100</th>
+	<th>10436211100</th>
+	<th>08-06-2016 10:42:43</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Diana Turbay sector lanceros</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-49 A -0 21 CASA</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104362111001105</th></tr><tr><th>10436411100</th>
+	<th>10436411100</th>
+	<th>08-06-2016 11:17:24</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>MONTE BELLO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 1A ESTE 25 02 SUR</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104364111001102</th></tr><tr><th>10755011100</th>
+	<th>10755011100</th>
+	<th>08-06-2016 11:34:00</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA CHINITA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 10C  10 20</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107550111001101</th></tr><tr><th>11608611100</th>
+	<th>11608611100</th>
+	<th>08-06-2016 11:53:52</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CHAGUALO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 56 61 23 INT 201</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116086111001102</th></tr><tr><th>11737311100</th>
+	<th>11737311100</th>
+	<th>08-06-2016 13:44:14</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CAMPO VALDES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 50A 79 05</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>117373111002105</th></tr><tr><th>10737011100</th>
+	<th>10737011100</th>
+	<th>08-06-2016 15:20:47</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>BUENOS AIRES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 23 40-116  CASA 9</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107370111001104</th></tr><tr><th>10483411100</th>
+	<th>10483411100</th>
+	<th>08-06-2016 15:25:52</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DEL VIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 13N 53N 70</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th>No dan información de personas de contacto porque no tienen conocidos cercanos ni datos de telefono</th>
+	<th>1</th>
+	<th></th>
+	<th>104834111001101</th></tr><tr><th>10436714205</th>
+	<th>10436714205</th>
+	<th>08-06-2016 15:38:22</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SUBA BILBAO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Transversal-142 -150 50 ETAPA 8 BLOQUE D CASA 11</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104367111001105</th></tr><tr><th>01709311100</th>
+	<th>01709311100</th>
+	<th>08-06-2016 16:07:58</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>Jose Antonio Galan</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 9 35-16</th>
+	<th>EL SR. JORGE VALLEJO INFORMA QUE EL CONTACTO QUE EL SUMINISTRA NO TIENE NUMERO TELEFÓNICO.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017093111001101</th></tr><tr><th>10587911100</th>
+	<th>10587911100</th>
+	<th>08-06-2016 16:14:38</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>JOSE  HILARIO LOPEZ</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 14 11 03</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105879111002104</th></tr><tr><th>11130211100</th>
+	<th>11130211100</th>
+	<th>08-06-2016 17:08:01</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA MANGA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 86   15A1 52</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111302111002105</th></tr><tr><th>10435211100</th>
+	<th>10435211100</th>
+	<th>09-06-2016 08:39:44</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>eduardo santos</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>kr19a#1g-22</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104352111001101</th></tr><tr><th>10420011100</th>
+	<th>10420011100</th>
+	<th>09-06-2016 09:43:27</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>Picacho</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 87 B 45 101</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La hija NIDIA JARAMILLO tambien se mudo al hogar con los nietos de la señora </th>
+	<th>1</th>
+	<th></th>
+	<th>104200111001101</th></tr><tr><th>11541211100</th>
+	<th>11541211100</th>
+	<th>09-06-2016 09:54:14</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>ALTO  PRADO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR55    82  235  CA</th>
+	<th>LA SEÑORA CECILIA ECHEVERRIA (PERSONA DE CONFIANZA) ACTUALIZO CORRECTAMENTE LA INFORMACION DE LA SEÑORA HELENA OCHOA LA CUAL EN EL MOMENTO SE ENCUENTRA HOSPITALIZADA</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>115412111001101</th></tr><tr><th>10437811100</th>
+	<th>10437811100</th>
+	<th>09-06-2016 09:58:43</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>DIANA TURBAY</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR  1  D 49 Y 46 SUR PISO 2</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104378111001103</th></tr><tr><th>42007511100</th>
+	<th>42007511100</th>
+	<th>09-06-2016 10:30:34</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>JESUS NAZARENO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 64 53-24 AP 301</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>420075111001102</th></tr><tr><th>01709911100</th>
+	<th>01709911100</th>
+	<th>09-06-2016 10:37:27</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>PORTAL  DE  LAS  PALMAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 42D  49A  17</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017099111001102</th></tr><tr><th>10322811100</th>
+	<th>10322811100</th>
+	<th>09-06-2016 10:39:12</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-4 C -17 73 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103228111001101</th></tr><tr><th>10767711100</th>
+	<th>10767711100</th>
+	<th>09-06-2016 10:43:00</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>BUENA ESPERANZA</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>cl 57 13 119</th>
+	<th>EL SEÑOR FANOR VIZCAINO CONFIRMO EL FACLLECIMIENTO DEL DEL SEÑOR EBERTO HECHO QUE OCURRIO EL DIA 03/03/2015</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107677111001101</th></tr><tr><th>10420111100</th>
+	<th>10420111100</th>
+	<th>09-06-2016 10:43:34</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>La union</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 65 C No 92 f 56</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104201111001102</th></tr><tr><th>11211711100</th>
+	<th>11211711100</th>
+	<th>03-06-2016 14:42:03</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>MANGUALA SAN ANTINIO DE PRADO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>DG 55D 47SUR-94 INT 237</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>Piensan cambiar del hogar todos por espacio, desconocen el lugar, se validan números. Recomendación contactarlos antes de visitarlos.</th>
+	<th>1</th>
+	<th></th>
+	<th>112117111001102</th></tr><tr><th>01725311100</th>
+	<th>01725311100</th>
+	<th>03-06-2016 15:26:54</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>El salvador</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 36 43 38</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017253111002103</th></tr><tr><th>00080911100</th>
+	<th>00080911100</th>
+	<th>07-06-2016 09:34:07</th>
+	<th>76147</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>CARTAGO</th>
+	<th></th>
+	<th>MARISCAL ROBLEDO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CR 12 5A 12</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000809111001101</th></tr><tr><th>10757311100</th>
+	<th>10757311100</th>
+	<th>07-06-2016 11:30:36</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CARRIZAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 2 50D 29 AP2</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107573111001102</th></tr><tr><th>11324411100</th>
+	<th>11324411100</th>
+	<th>07-06-2016 11:38:44</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>BELEN RINCON</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-79 -2 154 Apartamento 307</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>113244111001101</th></tr><tr><th>10322511100</th>
+	<th>10322511100</th>
+	<th>07-06-2016 11:44:09</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 17E 2 49</th>
+	<th>Hay un nuevo nieto en el hogar</th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103225111001101</th></tr><tr><th>10244511100</th>
+	<th>10244511100</th>
+	<th>07-06-2016 12:31:51</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL17A 1BE 153</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102445111001101</th></tr><tr><th>10260811100</th>
+	<th>10260811100</th>
+	<th>07-06-2016 14:03:52</th>
+	<th>54001</th>
+	<th>NORTE DE SANTANDER</th>
+	<th>CUCUTA</th>
+	<th></th>
+	<th>COMPARTIR</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-28 -15 142 COLINAS VISTA HERMOSA EN DE SANTANDER</th>
+	<th>ESTÁ EN CUCUTA NO CONVIVE CON MARÍA ALEJANDRA</th>
+	<th>lmtorresf</th>
+	<th>ESTA EN CUCUTA NO CONVIVE CON MARÍA ALEJANDRA</th>
+	<th>1</th>
+	<th></th>
+	<th>102608111001102</th></tr><tr><th>10242511100</th>
+	<th>10242511100</th>
+	<th>07-06-2016 14:08:14</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS SAUCES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL19 1E 158</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102425111001101</th></tr><tr><th>10260815201</th>
+	<th>10260811100</th>
+	<th>07-06-2016 14:14:12</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>COMPARTIR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CALLE 2SUR 22-49</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102608111001101</th></tr><tr><th>11740811100</th>
+	<th>11740811100</th>
+	<th>07-06-2016 16:37:06</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>INDEPENDENCIAS 2</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 111 C 34 CC 131</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>117408111001102</th></tr><tr><th>10528111100</th>
+	<th>10528111100</th>
+	<th>07-06-2016 17:14:15</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CALAZANS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 86 49 D 58</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105281111001101</th></tr><tr><th>11130011100</th>
+	<th>11130011100</th>
+	<th>08-06-2016 10:20:17</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA MANGA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL86  15 A1  32</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111300111002103</th></tr><tr><th>11123011100</th>
+	<th>11123011100</th>
+	<th>08-06-2016 10:51:28</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>EL BOSQUE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 77 7C 47</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111230111001104</th></tr><tr><th>10515211100</th>
+	<th>10515211100</th>
+	<th>08-06-2016 11:24:46</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>12 DE OCTUBRE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 101AA 76B 22 AP101</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105152111001101</th></tr><tr><th>10321311100</th>
+	<th>10321311100</th>
+	<th>08-06-2016 11:41:22</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LA ESMERALDA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 5 19 25</th>
+	<th>No da nombres de personas de contacto</th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103213111002103</th></tr><tr><th>10434611100</th>
+	<th>10434611100</th>
+	<th>08-06-2016 12:02:12</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>eduardo santos</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 19A 1G 44 PS 1</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104346111002102</th></tr><tr><th>10587311100</th>
+	<th>10587311100</th>
+	<th>08-06-2016 12:03:25</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DEL VIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 13N 53N 34</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105873111001102</th></tr><tr><th>10433511100</th>
+	<th>10433511100</th>
+	<th>08-06-2016 14:34:46</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>modelia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>kr85b #23b-60</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104335111001102</th></tr><tr><th>10245015202</th>
+	<th>10245011100</th>
+	<th>08-06-2016 14:53:34</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS SAUCES</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-1 -20 53 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102450111001102</th></tr><tr><th>11325011100</th>
+	<th>11325011100</th>
+	<th>08-06-2016 15:06:38</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>BELEN RINCON</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL2 78A-43 IN101</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>113250111001102</th></tr><tr><th>01709111100</th>
+	<th>01709111100</th>
+	<th>08-06-2016 15:08:29</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>Galan</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 35 8 50 PS2</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017091111001101</th></tr><tr><th>10877614202</th>
+	<th>10877614202</th>
+	<th>08-06-2016 16:31:53</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>SANTO DOMINGO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 4C #89 - 224</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>108776142023205</th></tr><tr><th>10320611100</th>
+	<th>10320611100</th>
+	<th>08-06-2016 16:41:50</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>EL MIRADOR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 31 12 - 25</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103206111001103</th></tr><tr><th>11636811100</th>
+	<th>11636811100</th>
+	<th>09-06-2016 08:29:07</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CIUDADELA  20 DE JULIO ( FELFLE )</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 46A  6C SUR 68</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116368111002107</th></tr><tr><th>11636711100</th>
+	<th>11636711100</th>
+	<th>09-06-2016 09:06:23</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>ALTO PRADO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR  55  82 257 AP 201</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116367111001101</th></tr><tr><th>10528011100</th>
+	<th>10528011100</th>
+	<th>09-06-2016 09:27:33</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>RODEO ALTO BELEN</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CLL 9 SUR 79C56 URB STA MARIA DEL RODEO</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105280111001103</th></tr><tr><th>10438111100</th>
+	<th>10438111100</th>
+	<th>09-06-2016 10:52:38</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CHUNIZA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-3 SUR-8 60 Apartamento 304</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104381111001102</th></tr><tr><th>10665814203</th>
+	<th>10665814203</th>
+	<th>09-06-2016 10:58:18</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>COUNTRY</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-53 -79 25 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>106658111001103</th></tr><tr><th>10780011100</th>
+	<th>10780011100</th>
+	<th>09-06-2016 11:02:18</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VEREDA CAJETE BAJO</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>EL PASTALITO</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th>KM 8 VIA EL TAMBO</th>
+	<th>1</th>
+	<th></th>
+	<th>107800111001101</th></tr><tr><th>10438211100</th>
+	<th>10438211100</th>
+	<th>09-06-2016 11:04:36</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>NARIÑO SUR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 3 SUR 8 60</th>
+	<th>EL SEÑOR HECTOR COMENTA QUE EL APELLIDO ES GIRALDO Y NO ZARATE</th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104382111004207</th></tr><tr><th>10563311100</th>
+	<th>10563311100</th>
+	<th>09-06-2016 11:11:50</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>VEREDA LA CHUSCALA </th>
+	<th>3</th>
+	<th>1</th>
+	<th>Rural</th>
+	<th>LA CHUSCALA   ESCUELA LA CHURRALA </th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105633111001102</th></tr><tr><th>00051311100</th>
+	<th>00051311100</th>
+	<th>09-06-2016 11:12:37</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>CORSOCIAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 40A 6-09</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000513111001101</th></tr><tr><th>10378911100</th>
+	<th>10378911100</th>
+	<th>07-06-2016 09:22:55</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR 2</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 42EE 119 11</th>
+	<th>El telefono fijo (4) 5293881, es de la vecina, contactar los celulares.</th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103789111001101</th></tr><tr><th>10587411100</th>
+	<th>10587411100</th>
+	<th>07-06-2016 09:24:13</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DEL VIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 13N 53N 58</th>
+	<th>La señora Carmenza dice no estar autorizada para dar información de teléfonos de ningún miembro del hogar y ella es quien contesta el único número que está registrado en la base de datos. </th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105874111001102</th></tr><tr><th>00074511100</th>
+	<th>00074511100</th>
+	<th>03-06-2016 14:52:23</th>
+	<th>08078</th>
+	<th>ATLANTICO</th>
+	<th>BARANOA</th>
+	<th></th>
+	<th>SANTA ANA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CALLE 12 18 46 AP 3</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th>Actualmente existe un nuevo miembro del hogar la niña se llama Alejandra Sofia Perez Mendez de 2 meses de edad</th>
+	<th>1</th>
+	<th></th>
+	<th>000745111001102</th></tr><tr><th>10422511100</th>
+	<th>10422511100</th>
+	<th>07-06-2016 10:59:18</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>LA AMERICA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>cll 43 s  81-04</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104225111002102</th></tr><tr><th>01707611100</th>
+	<th>01707611100</th>
+	<th>07-06-2016 11:22:30</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>Recreo</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 27 22 72</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017076111001101</th></tr><tr><th>10212514206</th>
+	<th>10212514206</th>
+	<th>07-06-2016 11:35:33</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>BOSANOVA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 87C 62B SUR 09</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102125111002105</th></tr><tr><th>10236811100</th>
+	<th>10236811100</th>
+	<th>07-06-2016 11:47:04</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>GILMAR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL160 58 75 T 1 AP 501 EDF DALI</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102368111001101</th></tr><tr><th>10380311100</th>
+	<th>10380311100</th>
+	<th>07-06-2016 12:09:53</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>12-oct</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 101AA 76B-04</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103803111002105</th></tr><tr><th>10422811100</th>
+	<th>10422811100</th>
+	<th>07-06-2016 13:54:26</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>PICACHITO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CR87 CL98B-21</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104228111004207</th></tr><tr><th>10592111100</th>
+	<th>10592111100</th>
+	<th>07-06-2016 14:15:51</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>ENCISO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 24 59B 5</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105921111001101</th></tr><tr><th>10242515205</th>
+	<th>10242511100</th>
+	<th>07-06-2016 14:16:28</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS SAUCES</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-3 -17 22 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102425111002102</th></tr><tr><th>10271811100</th>
+	<th>10271811100</th>
+	<th>07-06-2016 14:31:29</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>KENNEDY</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CARRERA 79 C 36 A SUR 78 BLOQUE 4 INTERIOR 2 APT 105</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102718111001102</th></tr><tr><th>10515811100</th>
+	<th>10515811100</th>
+	<th>07-06-2016 14:33:00</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>FUENTE CLARA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-62 BC -106 B 93 Interior 128</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105158111001101</th></tr><tr><th>10243411100</th>
+	<th>10243411100</th>
+	<th>07-06-2016 15:39:09</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>Entre Pinos</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-17 -48 N 18 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102434111001102</th></tr><tr><th>10600814203</th>
+	<th>10600814203</th>
+	<th>07-06-2016 15:56:11</th>
+	<th>05861</th>
+	<th>NTIOQUIA</th>
+	<th>VENECIA</th>
+	<th></th>
+	<th>BOLOMBOLO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-8 C -4 4 Piso 1, MIRAFLOREZ</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>106008111001103</th></tr><tr><th>10321811100</th>
+	<th>10321811100</th>
+	<th>07-06-2016 16:12:22</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>JOSE HILARIO LOPEZ</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 14 11 27</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103218111002105</th></tr><tr><th>10388211100</th>
+	<th>10388211100</th>
+	<th>07-06-2016 16:14:57</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CIUDADELA  20 DE JULIO (SALCEDO)</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 44 B  1 S 73</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103882111001101</th></tr><tr><th>11006111100</th>
+	<th>11006111100</th>
+	<th>07-06-2016 16:18:49</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>GOLONDRINAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KRA 18D 63 28</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>110061111003203</th></tr><tr><th>11120011100</th>
+	<th>11120011100</th>
+	<th>07-06-2016 16:31:35</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA MANGA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 86 15A1  60</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111200111002102</th></tr><tr><th>10379611100</th>
+	<th>10379611100</th>
+	<th>07-06-2016 17:10:21</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>PABLO VI</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CLL115 49C41</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103796111001106</th></tr><tr><th>10435911100</th>
+	<th>10435911100</th>
+	<th>08-06-2016 09:51:48</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CHIRCAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 59 SUR 22G 61</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th>JONATHAN ABANDONO LA FAMILIA Y SE FUE CON LA HIJA SHIRLY</th>
+	<th>1</th>
+	<th></th>
+	<th>104359111001102</th></tr><tr><th>11120211100</th>
+	<th>11120211100</th>
+	<th>08-06-2016 09:52:16</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA MANGA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 86  15A1 60</th>
+	<th>LAS NIÑAS KATHERIN JULIETH Y BEATRIZ HIDALGO ESPINOSA ACTUALMENTE VIVEN CON LA SEÑORA FELICIA ESPINOZA EN EL HOGAR 11120214202</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111202111001101</th></tr><tr><th>01708711100</th>
+	<th>01708711100</th>
+	<th>08-06-2016 09:58:28</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>OLIMPICO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 39 TV 23 61</th>
+	<th>EL SR. LUIS INFORMA QUE EL TELEFONO DE LA CASA QUE SE TENIA EN LA BASE DE DATOS NO CORRESPONDE AL DE LA CASA, COMO TELEFONO FIJO DA EL DE LA OFICINA POR QUE EL DE LA CASA LO VA A MANDAR QUITAR.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017087111001101</th></tr><tr><th>10512911100</th>
+	<th>10512911100</th>
+	<th>08-06-2016 12:07:24</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>PABLO  VI</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR  49C  120-53 IN103</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La familia no tiene fijo, se agregan dos fijos de vecinas que la comunicas, pero se recomienda llamar al celular que lo contestan.</th>
+	<th>1</th>
+	<th></th>
+	<th>105129111001101</th></tr><tr><th>10513311100</th>
+	<th>10513311100</th>
+	<th>08-06-2016 14:19:30</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>PABLO VI</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 49C 120 55</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105133111001101</th></tr><tr><th>10756311100</th>
+	<th>10756311100</th>
+	<th>08-06-2016 14:23:10</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA CHINITA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 11   10 C 20</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107563111001102</th></tr><tr><th>10515611100</th>
+	<th>10515611100</th>
+	<th>08-06-2016 14:27:33</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>LA COLINITA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-10 C Sur-53 A 19 </th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105156111001102</th></tr><tr><th>10588211100</th>
+	<th>10588211100</th>
+	<th>08-06-2016 14:32:16</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>URBANIZACION TOES</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-65 N -19 N 102 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105882111001102</th></tr><tr><th>10245011100</th>
+	<th>10245011100</th>
+	<th>08-06-2016 14:47:26</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-14 A -2 C 19 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102450111001101</th></tr><tr><th>11120214202</th>
+	<th>11120214202</th>
+	<th>08-06-2016 14:49:34</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>LA MANGA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 86-25A-1-24 AP 1</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111202111001102</th></tr><tr><th>10376211100</th>
+	<th>10376211100</th>
+	<th>08-06-2016 14:49:42</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR  1</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL  118  42C-62  IN102</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103762111001101</th></tr><tr><th>10434711100</th>
+	<th>10434711100</th>
+	<th>08-06-2016 15:55:14</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>modelia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>kr 82 #22A-77</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104347111001101</th></tr><tr><th>10841311100</th>
+	<th>10841311100</th>
+	<th>08-06-2016 15:57:56</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CONIDEC</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 5  SUR 48 26 AP 1</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>108413111002105</th></tr><tr><th>10434811100</th>
+	<th>10434811100</th>
+	<th>08-06-2016 16:00:09</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>modelia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>cl22 a bis # 82 -38</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104348111001101</th></tr><tr><th>00090012203</th>
+	<th>00090012203</th>
+	<th>03-06-2016 15:11:43</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SOCORRO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-15 -49 G 53 </th>
+	<th>ya no vive con la tia  Maria Alejandra Hoyos el resto de la familia se translado para fusa no sabe la direción</th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000900122034205</th></tr><tr><th>10243011100</th>
+	<th>10243011100</th>
+	<th>07-06-2016 09:45:47</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL17A 3CE 148</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102430111001101</th></tr><tr><th>10755311100</th>
+	<th>10755311100</th>
+	<th>07-06-2016 10:39:34</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CIUDADELA METROPOLITANA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CALLE 51 6F 22</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107553111001103</th></tr><tr><th>10483111100</th>
+	<th>10483111100</th>
+	<th>07-06-2016 10:43:49</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>URBANIZACION TOES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 2O 67N 03</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104831111001101</th></tr><tr><th>10755411100</th>
+	<th>10755411100</th>
+	<th>07-06-2016 10:54:02</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CIUDADELA 20 DE JULIO ( SALCEDO )</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 44B 1SUR 19</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107554111002103</th></tr><tr><th>10243211100</th>
+	<th>10243211100</th>
+	<th>07-06-2016 15:04:06</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL17A 1BE 177</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102432111001101</th></tr><tr><th>10780111100</th>
+	<th>10780111100</th>
+	<th>07-06-2016 15:18:46</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VEREDA CAJETE  BAJO</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>EL PASTALITO</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th>Todos los niños ahora tienen como aplellido GUTIERREZ SENGUAN</th>
+	<th>1</th>
+	<th></th>
+	<th>107801111001101</th></tr><tr><th>10407512203</th>
+	<th>10407512203</th>
+	<th>07-06-2016 15:38:23</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LA ESTRADA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 68G 64D 41</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104075122034206</th></tr><tr><th>10435611100</th>
+	<th>10435611100</th>
+	<th>08-06-2016 08:57:57</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LA CLARITA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>AV CIUDAD DE CALI 69 40</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104356111001101</th></tr><tr><th>10436011100</th>
+	<th>10436011100</th>
+	<th>08-06-2016 10:29:09</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Diana Turbay Sector Vencedores</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Cll 48X BIS SUR 1 29 PS 2</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104360111001101</th></tr><tr><th>10244611100</th>
+	<th>10244611100</th>
+	<th>08-06-2016 11:00:41</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>MARIA ORIENTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 17A 1BE 153</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102446111001101</th></tr><tr><th>11123015207</th>
+	<th>11123011100</th>
+	<th>08-06-2016 11:02:37</th>
+	<th>44001</th>
+	<th>GUAJIRA</th>
+	<th>RIOHACHA</th>
+	<th></th>
+	<th>SAN MARTIN</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-25 -18 36 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111230111002106</th></tr><tr><th>10637211100</th>
+	<th>10637211100</th>
+	<th>08-06-2016 11:03:05</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>JUAN 23 SECTOR LA LUZ DEL MUNDO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 48D 99B 217</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>106372111001101</th></tr><tr><th>10779311100</th>
+	<th>10779311100</th>
+	<th>08-06-2016 11:30:49</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DEL VIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CLL 53N 11 116</th>
+	<th>No dan información de contactos por seguridad</th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107793111001101</th></tr><tr><th>00068014205</th>
+	<th>00068014205</th>
+	<th>08-06-2016 11:58:42</th>
+	<th>08296</th>
+	<th>ATLANTICO</th>
+	<th>GALAPA</th>
+	<th></th>
+	<th>CANDELARIA I ETAPA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CR 23A  6  53</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000680111001105</th></tr><tr><th>10321711100</th>
+	<th>10321711100</th>
+	<th>08-06-2016 14:05:36</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>EL MIRADOR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 31 12 09</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103217111001102</th></tr><tr><th>10433211100</th>
+	<th>10433211100</th>
+	<th>08-06-2016 14:07:30</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Santa Matilde</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-31 D -1 A 14 apto 400</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104332111001102</th></tr><tr><th>01708911100</th>
+	<th>01708911100</th>
+	<th>08-06-2016 14:18:58</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>Recreo</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 27 22 30</th>
+	<th>SE LE PREGUNTA AL SR. ERNESTO QUE PARENTESCO TIENE CON EL SR. PEDRO Y EL CONFIRMA QUE SON HERMANOS, ES PRECISO ACTUALIZAR ESA INFORMACIÓN.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017089111001101</th></tr><tr><th>10780911100</th>
+	<th>10780911100</th>
+	<th>08-06-2016 16:02:11</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VEREDA CAJETE BAJO</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>LA AMPARO</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th>No conocen otras personas de contacto</th>
+	<th>1</th>
+	<th></th>
+	<th>107809111001101</th></tr><tr><th>42008211100</th>
+	<th>42008211100</th>
+	<th>09-06-2016 08:22:00</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>VILLAFLORA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 76F  83B-8</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>420082111001102</th></tr><tr><th>01709711100</th>
+	<th>01709711100</th>
+	<th>09-06-2016 09:00:04</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>SANTA BARBARA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 33A 37 61</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017097111001101</th></tr><tr><th>11246411100</th>
+	<th>11246411100</th>
+	<th>09-06-2016 09:05:03</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>BOSQUE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CRA 6  72-124</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>112464111001101</th></tr><tr><th>10382811100</th>
+	<th>10382811100</th>
+	<th>09-06-2016 09:10:38</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>MANRIQUE SAN BLAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 39A 86 55</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103828111001102</th></tr><tr><th>11182011100</th>
+	<th>11182011100</th>
+	<th>09-06-2016 09:10:44</th>
+	<th>52693</th>
+	<th>NARIÑO</th>
+	<th>SAN PABLO</th>
+	<th></th>
+	<th>PLAYA ALTA</th>
+	<th>3</th>
+	<th>1</th>
+	<th>Rural</th>
+	<th>PLAYA ALTA HUECO HONDO   </th>
+	<th>No tiene personas de contacto no sabe los teléfonos de los contactos. El señor Informa que se llama Amelio Cordoba Samboni</th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111820111001102</th></tr><tr><th>10437311100</th>
+	<th>10437311100</th>
+	<th>09-06-2016 09:10:52</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Diana Turbay</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Cra 1era D #48Y-64 Sur PISO 1</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104373111001101</th></tr><tr><th>11119714204</th>
+	<th>11119714204</th>
+	<th>09-06-2016 09:13:19</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th>000</th>
+	<th>ADELITA DE CHARR</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-19 B -16 51 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111197111001104</th></tr><tr><th>01709811100</th>
+	<th>01709811100</th>
+	<th>09-06-2016 09:18:03</th>
+	<th>76520</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>EL RECREO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-21 -25 36 Casa </th>
+	<th>LA SRA CAROLINA CALLE SANCHEZ SE SEPARÓ DEL SEÑOR HUGO IVAN MAZUERA ARANA HACE YA DOS AÑOS.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017098111001101</th></tr><tr><th>10437411100</th>
+	<th>10437411100</th>
+	<th>09-06-2016 09:20:04</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LA CLARITA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 71A 84A 19AP201</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104374111003204</th></tr><tr><th>10437511100</th>
+	<th>10437511100</th>
+	<th>09-06-2016 09:35:05</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>INGLES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>DG 40 SUR 27 90</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104375111001101</th></tr><tr><th>11135011100</th>
+	<th>11135011100</th>
+	<th>09-06-2016 09:40:05</th>
+	<th>08573</th>
+	<th>ATLANTICO</th>
+	<th>PUERTO COLOMBIA</th>
+	<th></th>
+	<th>CENTRO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-2 -6 54 </th>
+	<th>EL SEÑOR TENDIO A SER RENUENTE, SE NEGO A SUMINISTRAR PERSONA DE CONTACTO</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111350111001101</th></tr><tr><th>11608311100</th>
+	<th>11608311100</th>
+	<th>09-06-2016 10:02:21</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CHAGUALO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 56 61 35</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116083111001103</th></tr><tr><th>00017214201</th>
+	<th>00017214201</th>
+	<th>03-06-2016 13:41:53</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>EL JAZMIN</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL2G 40C 08</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000172111001101</th></tr><tr><th>00049011100</th>
+	<th>00049011100</th>
+	<th>03-06-2016 14:04:52</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SAN LUIS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Cl  61B 21-19 AP601</th>
+	<th>EL señor Juan Diego dice que la señora Esperanza Barco siempre ha estado en pamplona no conoce a Viviana pico.</th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000490111001102</th></tr><tr><th>10768715205</th>
+	<th>10768714205</th>
+	<th>03-06-2016 15:52:33</th>
+	<th>08638</th>
+	<th>ATLANTICO</th>
+	<th>SABANALARGA</th>
+	<th></th>
+	<th>LA CONCEPCION</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-20 A -8 34 </th>
+	<th>Falta actualizar la dirección en el municipio de Sabanalarga, pues se genera un error en el departamento.</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107687111001105</th></tr><tr><th>11692011100</th>
+	<th>11692011100</th>
+	<th>03-06-2016 16:28:37</th>
+	<th>08078</th>
+	<th>ATLANTICO</th>
+	<th>BARANOA</th>
+	<th></th>
+	<th>11 DE NOVIEMBRE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CRA 18D 27 62</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116920111003202</th></tr><tr><th>01725315201</th>
+	<th>01725311100</th>
+	<th>07-06-2016 10:38:23</th>
+	<th>27099</th>
+	<th>CHOCO</th>
+	<th>BOJAYA</th>
+	<th>Bellavista</th>
+	<th>Bella luz</th>
+	<th>2</th>
+	<th>1</th>
+	<th>Rural</th>
+	<th>Sector dos de Mayo casa 60 Cerca al colegio municipal  </th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017253111001101</th></tr><tr><th>00069414204</th>
+	<th>00069414204</th>
+	<th>07-06-2016 11:56:34</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>VILLA DEL CARMEN SOLEDAD</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CR 43 56 11</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000694142044207</th></tr><tr><th>11131211100</th>
+	<th>11131211100</th>
+	<th>07-06-2016 12:49:46</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>VILLA DEL ROSARIO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 82D 27C 79</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111312111001107</th></tr><tr><th>10755315203</th>
+	<th>10755311100</th>
+	<th>07-06-2016 12:59:09</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>SAN ANDRES DELICIAS</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-68 I -43 C 40 </th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107553111001103</th></tr><tr><th>00051511100</th>
+	<th>00051511100</th>
+	<th>07-06-2016 13:46:53</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>CORSOCIAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 40 6-16</th>
+	<th>La señora Sandra tiene un nuevo hijo de meses</th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000515111001102</th></tr><tr><th>01707711100</th>
+	<th>01707711100</th>
+	<th>07-06-2016 14:06:59</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>Recreo</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 27 22 42</th>
+	<th>NO TIENEN NUMERO CELULAR TANTO LAS PERSONAS DE SEGUIMIENTO COMO EL CONTACTO.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017077111001101</th></tr><tr><th>10779611100</th>
+	<th>10779611100</th>
+	<th>07-06-2016 14:46:43</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VEREDA CAJETE BAJO</th>
+	<th>3</th>
+	<th>0</th>
+	<th></th>
+	<th>SANTA CECILIA</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>107796111001102</th></tr><tr><th>10286311100</th>
+	<th>10286311100</th>
+	<th>07-06-2016 15:29:28</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>Florencia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL74 86 40 AP 607</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102863111001101</th></tr><tr><th>10408014203</th>
+	<th>10408014203</th>
+	<th>07-06-2016 15:53:12</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>BOCHICA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-50 SUR-6 56 MOLINOS 1 CASA</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104080111001103</th></tr><tr><th>01708311100</th>
+	<th>01708311100</th>
+	<th>07-06-2016 16:55:28</th>
+	<th>76520</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>PASO DE COMERCIO</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Rural</th>
+	<th>TIENDA NUEVA RIONIMA   ORILLA DE CARRETERA</th>
+	<th>EL SR. JAIME DE JESUS GARCIA INFORMA QUE NO CONOCE LA DIRECCION QUE ESTABA EN LA BASE DE DATOS.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017083111001102</th></tr><tr><th>10435811100</th>
+	<th>10435811100</th>
+	<th>08-06-2016 09:05:47</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CALVO SUR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 7A 1 58 SUR</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104358111001101</th></tr><tr><th>10435411100</th>
+	<th>10435411100</th>
+	<th>08-06-2016 09:18:22</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>modelia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR85B#23B60 T4 AP 511</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104354111001101</th></tr><tr><th>10513811100</th>
+	<th>10513811100</th>
+	<th>08-06-2016 10:47:29</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>BELENCITO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR93 34AA 39</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105138111002104</th></tr><tr><th>10320511100</th>
+	<th>10320511100</th>
+	<th>08-06-2016 11:22:28</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>EL MIRADOR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 12 30A 29</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103205111001101</th></tr><tr><th>10513111100</th>
+	<th>10513111100</th>
+	<th>08-06-2016 13:59:30</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR II</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 45 107B 15</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105131111001101</th></tr><tr><th>10436711100</th>
+	<th>10436711100</th>
+	<th>08-06-2016 15:30:03</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LAS FERIAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 68H 79 69 PS 3</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104367111001102</th></tr><tr><th>10435011100</th>
+	<th>10435011100</th>
+	<th>08-06-2016 16:08:27</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>modelia</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>cl 22b bis #82-23</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104350111002102</th></tr><tr><th>11129811100</th>
+	<th>11129811100</th>
+	<th>08-06-2016 16:14:21</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CIUDADELA 20 DE JULIO (FELFLE)</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 46A 6C SUR 96</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111298111001101</th></tr><tr><th>10321611100</th>
+	<th>10321611100</th>
+	<th>08-06-2016 16:53:33</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>SOLIDARIDAD</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-16 -23 75 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103216111001103</th></tr><tr><th>00051011100</th>
+	<th>00051011100</th>
+	<th>09-06-2016 10:12:24</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>San Antonio de Padua</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-4 A -43 82 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000510111001101</th></tr><tr><th>10528411100</th>
+	<th>10528411100</th>
+	<th>09-06-2016 10:16:14</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>SANTA LUCIA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 47 F 86 48</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105284111002104</th></tr><tr><th>11136311100</th>
+	<th>11136311100</th>
+	<th>09-06-2016 10:22:40</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>VILLA CAROLINA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>cl 93 72 137 ca 1</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111363111001101</th></tr><tr><th>10437911100</th>
+	<th>10437911100</th>
+	<th>09-06-2016 10:29:34</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>DIANA TURBAY LA SERRANIA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 49B 3A 21 ESTE</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104379111002104</th></tr><tr><th>10439511100</th>
+	<th>10439511100</th>
+	<th>09-06-2016 14:15:45</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>BUENOS AIRES</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CALLE 78  A N 17 A 27</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104395111004202</th></tr><tr><th>11130614203</th>
+	<th>11130614203</th>
+	<th>09-06-2016 11:22:38</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>RECREO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 60 35  45</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>111306111001103</th></tr><tr><th>10438411100</th>
+	<th>10438411100</th>
+	<th>09-06-2016 11:23:46</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LAS FERIAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 68H 79 69 PS 2</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104384111001101</th></tr><tr><th>10438711100</th>
+	<th>10438711100</th>
+	<th>09-06-2016 11:37:32</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LA CLARITA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 84 A 69 27</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104387111002104</th></tr><tr><th>10320411100</th>
+	<th>10320411100</th>
+	<th>09-06-2016 11:37:59</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>EL MIRADOR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 31 12 23</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103204111002103</th></tr><tr><th>11609211100</th>
+	<th>11609211100</th>
+	<th>09-06-2016 14:10:04</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>CHAGUALO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 56 61-19</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>116092111001101</th></tr><tr><th>10422111100</th>
+	<th>10422111100</th>
+	<th>09-06-2016 14:53:52</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>SAN ANTONIO DE PRADO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 10 5D-149</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La vecina UCARIS, Nos contacta con el señor, el celular es correcto pero se recomienda llamar a este fijo.</th>
+	<th>1</th>
+	<th></th>
+	<th>104221111001101</th></tr><tr><th>00051422201</th>
+	<th>00051422201</th>
+	<th>09-06-2016 11:26:32</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>CORSOCIAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 40 A 6-03</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000514211001101</th></tr><tr><th>00086614203</th>
+	<th>00086614203</th>
+	<th>09-06-2016 11:28:26</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>Altos de Riomar</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr 52 94-17</th>
+	<th>AUN NO TIENE DEFINIDA LA NUEVA DIRECCION DE UBICACION, ELLA ES ESTUDIANTE UNIVERSITARIA</th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000866111001103</th></tr><tr><th>01710311100</th>
+	<th>01710311100</th>
+	<th>09-06-2016 11:32:49</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>SESQUI CENTENARIO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR  26  AS   10  83</th>
+	<th>EL SR. JOSE INFORMA QUE ÉL SE SEPARO Y TANTO LA SEÑORA COMO LA HIJA SE FUERON DEL PAÍS.</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017103111001101</th></tr><tr><th>10839811100</th>
+	<th>10839811100</th>
+	<th>09-06-2016 11:37:52</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>NUEVA GRANADA</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 31  64 36 AP 01</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th>EN PRINCIPIO EL TELEFONO LO CONTESTO LA SEÑORA ELIZABETH ROJAS, SIN EMBARGO, EL SEÑOR JORGE DE LAS SALAS MANIFIESTA QUE SU SEÑORA MADRE ES MUY MAYOR PARA ESTAR DANDO INFORMACION Y SE LE DIFICULTA ESCUCHAR Y VER</th>
+	<th>1</th>
+	<th></th>
+	<th>108398111001101</th></tr><tr><th>01710511100</th>
+	<th>01710511100</th>
+	<th>09-06-2016 13:47:58</th>
+	<th>76520</th>
+	<th>Valle del Cauca</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>PORTAL  DE  LAS  PALMAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>Kr  42D  49A  21</th>
+	<th>EL NOMBRE DE LA PERSONA SE ENCUENTRA REPETIDO. CORREGIR</th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017105111001101</th></tr><tr><th>11442911100</th>
+	<th>11442911100</th>
+	<th>09-06-2016 13:55:24</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>Loma del barro</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL53 C SUR 40B 80 URB MIRADOR DE LAS FLORES</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La señora no quisiera continuar en la encuesta, respondió un poco molesta.</th>
+	<th>1</th>
+	<th></th>
+	<th>114429111001101</th></tr><tr><th>01710611100</th>
+	<th>01710611100</th>
+	<th>09-06-2016 13:58:27</th>
+	<th>76520</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>MOLINOS</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Carrera-43 A -60 30 CASA</th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017106111001101</th></tr><tr><th>11219711100</th>
+	<th>11219711100</th>
+	<th>09-06-2016 14:34:09</th>
+	<th>05001</th>
+	<th>Antioquia</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>cll los quindianos</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>cll los quindianos numero 104 apartamento 93</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La señora es desplazada se muda frecuentemente, llamarla antes de realizar la encuesta.</th>
+	<th>1</th>
+	<th></th>
+	<th>112197111001101</th></tr><tr><th>10438811100</th>
+	<th>10438811100</th>
+	<th>09-06-2016 11:45:57</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>LAS FERIAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 79 68H 6 PS 2</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104388111001101</th></tr><tr><th>01710411100</th>
+	<th>01710411100</th>
+	<th>09-06-2016 11:55:50</th>
+	<th>76520</th>
+	<th>VALLE DEL CAUCA</th>
+	<th>PALMIRA</th>
+	<th></th>
+	<th>HUGO VARELA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-56 A -46 A 45 Casa </th>
+	<th></th>
+	<th>hclopezp</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>017104111001102</th></tr><tr><th>10380911100</th>
+	<th>10380911100</th>
+	<th>09-06-2016 11:58:44</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>MANRIQUE LAS ESMERALDAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 88 44A 9 AP301</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103809111001102</th></tr><tr><th>10226611100</th>
+	<th>10226611100</th>
+	<th>09-06-2016 14:45:56</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR I</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 43A 107B 10</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102266111001101</th></tr><tr><th>10439911100</th>
+	<th>10439911100</th>
+	<th>09-06-2016 14:46:47</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>VISTA HERMOSA</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Transversal-18 bis -72 A 57 Casa </th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104399111001102</th></tr><tr><th>11123111100</th>
+	<th>11123111100</th>
+	<th>09-06-2016 14:50:13</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>EL BOSQUE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 77 7C 41</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th>EN EL HOGAR HAY UN NUEVO INTEGRANTE JAIRO ANDRES DAZA BECERRA DE CINCO MESES DE EDAD</th>
+	<th>1</th>
+	<th></th>
+	<th>111231111001101</th></tr><tr><th>00050711100</th>
+	<th>00050711100</th>
+	<th>09-06-2016 11:49:32</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>CORSOCIAL</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 40 6-22</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>000507111001101</th></tr><tr><th>10375911100</th>
+	<th>10375911100</th>
+	<th>09-06-2016 11:48:41</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>POPULAR  2</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR  42E  118B-11  IN101</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>103759111001102</th></tr><tr><th>10841111100</th>
+	<th>10841111100</th>
+	<th>09-06-2016 11:51:53</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CONIDEC</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 5 SUR 48 32</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>108411111001101</th></tr><tr><th>10588511100</th>
+	<th>10588511100</th>
+	<th>09-06-2016 11:58:41</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>VILLA DELVIENTO</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL53N 11 104</th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>105885111001103</th></tr><tr><th>10840414202</th>
+	<th>10840414202</th>
+	<th>09-06-2016 13:25:52</th>
+	<th>08001</th>
+	<th>ATLANTICO</th>
+	<th>BARRANQUILLA</th>
+	<th></th>
+	<th>CEVILLAR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 54 13B 28</th>
+	<th></th>
+	<th>lygelvesr</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>108404111001102</th></tr><tr><th>10439011100</th>
+	<th>10439011100</th>
+	<th>09-06-2016 13:44:47</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CALVO SUR</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 7A 1 54 SUR IN 2</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104390111002103</th></tr><tr><th>10381211100</th>
+	<th>10381211100</th>
+	<th>09-06-2016 13:46:17</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>12 DE OCTUBRE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 101AA 76B 10 AP301</th>
+	<th></th>
+	<th>1128282058</th>
+	<th>La señora viaja mucho al municipio de hispania, tiene 73 años , no mantiene en el hogar</th>
+	<th>1</th>
+	<th></th>
+	<th>103812111001101</th></tr><tr><th>10439114203</th>
+	<th>10439114203</th>
+	<th>09-06-2016 13:55:43</th>
+	<th>11001</th>
+	<th>BOGOTA D.C.</th>
+	<th>BOGOTA</th>
+	<th></th>
+	<th>CARABELAS</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>KR 38A 1D 17</th>
+	<th></th>
+	<th>lmtorresf</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>104391111001103</th></tr><tr><th>10243311100</th>
+	<th>10243311100</th>
+	<th>09-06-2016 14:07:16</th>
+	<th>19001</th>
+	<th>Cauca</th>
+	<th>POPAYAN</th>
+	<th></th>
+	<th>LOS COMUNEROS</th>
+	<th>1</th>
+	<th>1</th>
+	<th>Urbana</th>
+	<th>Calle-18 -7 76 </th>
+	<th></th>
+	<th>gmorenor</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>102433111002103</th></tr><tr><th>11032314205</th>
+	<th>11032314205</th>
+	<th>09-06-2016 14:18:20</th>
+	<th>05001</th>
+	<th>ANTIOQUIA</th>
+	<th>MEDELLIN</th>
+	<th></th>
+	<th>ROBLEDO - BELLO HORIZONTE</th>
+	<th>1</th>
+	<th>0</th>
+	<th></th>
+	<th>CL 77BB 85 30</th>
+	<th></th>
+	<th>1128282058</th>
+	<th></th>
+	<th>1</th>
+	<th></th>
+	<th>110323111001105</th></tr></table>
